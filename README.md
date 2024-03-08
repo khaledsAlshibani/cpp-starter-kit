@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="./assets/thumbnail.png" alt="Thumbnail" height="160">
+    <img src="./assets/thumbnail.png" alt="Thumbnail" height="120">
     <br>
-    <h1>C++ Starter Kit</h1>
+    <h1>C++ Starter Kit - Learn Fundamentals</h1>
     <p>Here, you'll find beginner-friendly programs tutorials, essential data structures, algorithms, and file operations. All with C++.</p>
 </div>
 
