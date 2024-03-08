@@ -1,10 +1,11 @@
 <div align="center">
-    <img src="./assets/thumbnail.png" alt="Thumbnail" height="150">
+    <img src="./assets/thumbnail.png" alt="Thumbnail" height="160">
     <br>
-    <br>
-    <h1>Start PProgramming With C++</h1>
+    <h1>C++ Starter Kit</h1>
     <p>Here, you'll find beginner-friendly programs tutorials, essential data structures, algorithms, and file operations. All with C++.</p>
 </div>
+
+---
 
 ### What's Inside?
 
