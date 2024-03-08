@@ -7,8 +7,8 @@
 
 ---
 
-> "C++ is the most used language among competitive programmers because it provides many ready-to-use data structures, is very fast to execute, and also provides the programmer with control of the finest details of the program, which if used cleverly, can allow for creating very creative and efficient solutions."
-> ([Hub21](https://thehub21.com/blog/20/why-should-children-learn-c))
+> Universities prefer teaching programming fundamentals using C++ due to its efficiency, versatility, industry relevance, support for object-oriented programming principles, emphasis on memory management, and its role as a transitional language. C++ provides students with a solid foundation in low-level concepts, such as memory management and pointers, while also preparing them for a wide range of industries and programming domains. Its widespread use in industries like game development, systems programming, and scientific computing ensures that students acquire skills that are highly sought after in the job market. Additionally, C++ serves as a stepping stone for learning other languages, making it an ideal choice for introducing students to the core principles of programming.
+> ([ChatGPT](https://chat.openai.com/share/b0cb4eda-0f9d-4b3b-aba1-d6887f08d3ac))
 
 ## What's Inside?
 
@@ -83,6 +83,9 @@ Data types exist in all programming languages, although there may be small diffe
 ```cpp
 // datatype variableName = value;
 int x = 5;
+char c = 'A';
+bool isDone = true;
+auto y = x; // int
 ```
 
 #### Resources
