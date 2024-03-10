@@ -116,6 +116,6 @@ cout << "The number is: " << number << endl;
 ```
 
 #### Resources 
-- (Basic Input / Output in C++)[https://www.geeksforgeeks.org/basic-input-output-c/]
-- (Understanding the Concept of Cin Object in C++ for Beginners)[https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-cin#:~:text=The%20C%2B%2B%20cin%20is%20an,extraction%20operator%20(%3E%3E).]
-- (Difference between cerr and clog)[https://www.geeksforgeeks.org/difference-between-cerr-and-clog/]
+- [Basic Input / Output in C++](https://www.geeksforgeeks.org/basic-input-output-c/)
+- [Understanding the Concept of Cin Object in C++ for Beginners](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-cin#:~:text=The%20C%2B%2B%20cin%20is%20an,extraction%20operator%20(%3E%3E).)
+- [Difference between cerr and clog](https://www.geeksforgeeks.org/difference-between-cerr-and-clog/)
