@@ -1,10 +1,4 @@
 <div align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src="./assets/thumbnail.png" alt="Thumbnail" height="120">
     <br>
     <h1>C++ Starter Kit - Learn Fundamentals</h1>
@@ -96,7 +90,6 @@ cout << "The number is: " << number << endl;
 - [Difference between cerr and clog](https://www.geeksforgeeks.org/difference-between-cerr-and-clog/)
 
 ---
----
 
 ## Contributors ✨
 
@@ -114,9 +107,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tfoot>
     <tr>
       <td align="center" size="13px" colspan="7">
-        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
-          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
-        </img>
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg"></img>
       </td>
     </tr>
   </tfoot>
