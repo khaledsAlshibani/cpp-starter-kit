@@ -1,4 +1,10 @@
 <div align="center">
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
     <img src="./assets/thumbnail.png" alt="Thumbnail" height="120">
     <br>
     <h1>C++ Starter Kit - Learn Fundamentals</h1>
@@ -20,6 +26,7 @@
   - [Basic Input and Output with `cin` and `cout`](#basic-input-and-output-with-cin-and-cout)
     - [Example](#example-1)
     - [Resources](#resources-1)
+- [Contributors ✨](#contributors-)
 
 ## Overview
 
@@ -87,3 +94,37 @@ cout << "The number is: " << number << endl;
 - [Basic Input / Output in C++](https://www.geeksforgeeks.org/basic-input-output-c/)
 - [Understanding the Concept of Cin Object in C++ for Beginners](https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-cin#:~:text=The%20C%2B%2B%20cin%20is%20an,extraction%20operator%20(%3E%3E).)
 - [Difference between cerr and clog](https://www.geeksforgeeks.org/difference-between-cerr-and-clog/)
+
+---
+---
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://khaled.technway.biz/"><img src="https://avatars.githubusercontent.com/u/127689031?v=4?s=100" width="100px;" alt="Khaled Alshibani"/><br /><sub><b>Khaled Alshibani</b></sub></a><br /><a href="https://github.com/khaledsAlshibani/cpp-starter-kit/commits?author=khaledsAlshibani" title="Code">💻</a> <a href="https://github.com/khaledsAlshibani/cpp-starter-kit/commits?author=khaledsAlshibani" title="Documentation">📖</a> <a href="#example-khaledsAlshibani" title="Examples">💡</a> <a href="#ideas-khaledsAlshibani" title="Ideas, Planning, & Feedback">🤔</a> <a href="#tutorial-khaledsAlshibani" title="Tutorials">✅</a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td align="center" size="13px" colspan="7">
+        <img src="https://raw.githubusercontent.com/all-contributors/all-contributors-cli/1b8533af435da9854653492b1327a23a4dbd0a10/assets/logo-small.svg">
+          <a href="https://all-contributors.js.org/docs/en/bot/usage">Add your contributions</a>
+        </img>
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
