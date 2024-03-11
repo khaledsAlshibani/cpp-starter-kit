@@ -1,12 +1,12 @@
 ## What's Inside?
 
-- **Overview**
-  - Why starting programming with c++
-  - Using C++ with VS Code
+- **Overview** ✅
+  - Why starting programming with c++ ✅
+  - Using C++ with VS Code ✅
 
 - **Basic C++ Tutorials**
-  - data types & variables
-  - input/output (cin/cout)
+  - data types & variables ✅
+  - input/output (cin/cout) ✅
   - control structures
   - functions
   - operators
