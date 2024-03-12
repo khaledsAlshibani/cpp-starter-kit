@@ -7,8 +7,8 @@
 - **Basic C++ Tutorials**
   - data types & variables ✅
   - input/output (cin/cout) ✅
-  - control structures
-  - functions
+  - control structures ✅
+  - functions ✅
   - operators
   
 - **Advanced C++ Concepts**

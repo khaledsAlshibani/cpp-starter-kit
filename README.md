@@ -23,6 +23,9 @@
   - [Control Structures](#control-structures)
     - [Types of Control Structures](#types-of-control-structures)
     - [Resources](#resources-2)
+  - [Functions](#functions)
+    - [Example](#example-2)
+    - [Resources](#resources-3)
 - [Contributors ✨](#contributors-)
 
 ## Overview
@@ -135,6 +138,60 @@ Control structures are fundamental to every programming language. They dictate t
 - [GeeksforGeeks - Control Structures in Programming Languages](https://www.geeksforgeeks.org/control-structures-in-programming-languages/)
 - [W3Schools - C++ If ... Else](https://www.w3schools.com/cpp/cpp_conditions.asp)
 - [Introduction to Iterators in C++](https://www.geeksforgeeks.org/introduction-iterators-c/)
+
+### Functions
+
+Functions are essential components present in all high-level programming languages, whether functional or object-oriented. They are used as modular blocks of code designed to accomplish specific tasks without repeating the same code.
+In C++, functions are integral to the program's structure, as the `main()` serves as the entry point for execution.
+
+> Functions are "self-contained" modules of code that execute a specific task. They typically accept input data, process it, and return a result. Once defined, functions can be invoked repeatedly from within other functions.
+> ([University of Utah Kahlert School of Computing](https://users.cs.utah.edu/~germain/PPS/Topics/functions.html#:~:text=Functions%20are%20%22self%20contained%22%20modules,the%20inside%20of%20other%20functions))
+
+There are two main categories of functions:
+
+1. **Predefined Functions**:
+   Also known as built-in functions, these functions are provided by the language itself or from standard library headers in C++. Such as: `length()`, `size()`, and math functions.
+
+2. **User-defined Functions**:
+   These functions are created and implemented by the programmer to accomplish specific requirements.
+
+Functions can be categorized based on their return type to:
+
+1. **Value-returning Functions**:
+   These functions return a value of a specified data type.
+
+2. **Void Functions**:
+   These functions do not return any value (`void`).
+
+In C++, defining a function by specifying:
+1. The return type (Not required in all languages but in C++).
+2. The function name (following naming conventions).
+3. Parameters enclosed within parentheses.
+4. The function body enclosed within curly braces, containing the code to be processed and executed.
+
+#### Example
+
+```cpp
+// Void function
+void sayHello() {
+    cout << "Hello World";
+}
+
+// Value returning function
+int calc() {
+    int a = 0;
+    int b = 2;
+
+    return a + b; // returns `2`
+}
+```
+
+Parameters will be introduced later.
+
+#### Resources
+
+[W3Schools - C++ Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
+[University of Utah Kahlert School of Computing](https://users.cs.utah.edu/~germain/PPS/Topics/functions.html#:~:text=Functions%20are%20%22self%20contained%22%20modules,the%20inside%20of%20other%20functions)
 
 ---
 
