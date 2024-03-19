@@ -26,6 +26,9 @@
   - [Functions](#functions)
     - [Example](#example-2)
     - [Resources](#resources-3)
+  - [Operators](#operators)
+    - [Types of Operators:](#types-of-operators)
+    - [Kinds of Operators based on Operands:](#kinds-of-operators-based-on-operands)
 - [Contributors ✨](#contributors-)
 
 ## Overview
@@ -192,6 +195,76 @@ Parameters will be introduced later.
 
 [W3Schools - C++ Functions](https://www.w3schools.com/cpp/cpp_functions.asp)
 [University of Utah Kahlert School of Computing](https://users.cs.utah.edu/~germain/PPS/Topics/functions.html#:~:text=Functions%20are%20%22self%20contained%22%20modules,the%20inside%20of%20other%20functions)
+
+### Operators
+
+Operators in C++ can be categorized into 5 different types. And also categorized two 3 kinds based on their functionality and the number of operands they involve.
+
+#### Types of Operators:
+1. **Arithmetic Operators**: For mathematical operations.
+2. **Assignment Operators**: For assigning values to variables.
+3. **Relational Operators**: For comparing values.
+4. **Logical Operators**: For logical operations (and / or).
+5. **Bitwise Operators**: Used for bit-level manipulation.
+
+#### Kinds of Operators based on Operands:
+- **Unary Operators**: Operate on a single operand.
+- **Binary Operators**: Operate on two operands.
+- **Ternary Operator**: Operates on three operands.
+
+First: Arithmetic operators
+
+| Operator | Kind     | Example                                    |
+|----------|----------|--------------------------------------------|
+| `+`      | Unary    | `+5` (output is positive value of 5)                 |
+|          | Binary   | `5 + 3` (output is 8)                |
+| `-`      | Unary    | `-5` (output is negative of 5)                       |
+|          | Binary   | `10 - 3` (output is 7)            |
+| `*`      | Binary   | `5 * 3` (output is 15)         |
+| `/`      | Binary   | `10 / 2` (output is 5)               |
+| `%`      | Binary   | `10 % 3` (output is 1)                |
+| `++`     | Unary    | `int x = 5; ++x;` (Called: pre-increment. output is x = 6) |
+| `--`     | Unary    | `int x = 5; x--;` (Called: post-increment. output is x = 4) |
+
+Note that the `+` and `-` operators can act as both unary and binary operators depending on the context in which they are used, +5 here it's unary while here 2 + 5 it's binary.
+
+Second: Assignment Operators:
+
+It's clear from the name that these operators assign values to variables. And they are binary operators. These operators are commonly used to update the value of variables based on calculations or conditions in the program.
+
+| Operator | Example                  |
+|----------|--------------------------|
+| `=`      | `int x = 5;`             |
+| `+=`     | `x += 3;` (equivalent to `x = x + 3;`) |
+| `-=`     | `x -= 2;` (equivalent to `x = x - 2;`) |
+| `*=`     | `x *= 4;` (equivalent to `x = x * 4;`) |
+| `/=`     | `x /= 2;` (equivalent to `x = x / 2;`) |
+| `%=`     | `x %= 3;` (equivalent to `x = x % 3;`) |
+
+Arithmetic operators before the `=` sign will do a mathematical operation and then the `=` will assign the result to the variable.
+For example `x += 2` it's the same as `x = x + 2` so the `2` will be added to the value of `x` rhen result of addition will be assigned to `x` as a new value.
+
+Notes:
+    - Both the variable and the value should be of the same data type.
+    - The variable should always be on the left side of the assignment operator, and the value to be assigned should be on the right side.
+
+Third: Relational Operators:
+Relational Operators are binary operators used for comparing purposes. They evaluate expressions and return either true or false based on the comparison result, and the are the core of programming languages. They are commonly used in conditional statements.
+
+They are:
+
+| Operator | What is it           | Example           |
+|----------|----------------------|-------------------|
+| `==`     | Equal to             | `5 == 5` (true)   |
+| `!=`     | Not equal to         | `5 != 3` (true)   |
+| `>`      | Greater than         | `10 > 5` (true)   |
+| `<`      | Less than            | `3 < 8` (true)    |
+| `>=`     | Greater than or equal| `5 >= 5` (true)   |
+| `<=`     | Less than or equal   | `8 <= 8` (true)   |
+
+Fourth: Logical Operators:
+
+*Pending ..*
 
 ---
 
